@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_16402ba5-4814-4071-be31-e20666beb78d
+    project-id: project_cd7106a0-9951-426d-9e3b-b17047a4cc18
+    project-name: dogHouse01
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
