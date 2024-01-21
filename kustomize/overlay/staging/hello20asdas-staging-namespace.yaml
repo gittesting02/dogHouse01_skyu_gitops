@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hello20asdas-staging
+  labels:
+    environment-id: env_6208892f-193f-4d2c-8d07-de83ea922487
+    project-id: project_3425448c-5b8a-4fdd-a103-914d701b63c0
+    project-name: hello20asdas
+    environment-name: staging
+    organization-id: org_3fe5a754-9f2c-48a1-a0cf-5e307ff42d78

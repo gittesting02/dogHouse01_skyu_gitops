@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hello20asdas-prod
+  labels:
+    environment-id: env_827e173a-8ff8-4fce-b853-33e72b394026
+    project-id: project_3425448c-5b8a-4fdd-a103-914d701b63c0
+    project-name: hello20asdas
+    environment-name: prod
+    organization-id: org_3fe5a754-9f2c-48a1-a0cf-5e307ff42d78
